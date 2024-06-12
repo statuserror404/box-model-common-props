@@ -551,7 +551,7 @@ footer{
         - add the puppy-photo as a repeating background to the container
 */
 #bg-img-3{
-    background-color: var(--lt-blue) center url("images/puppy-photo.jpg");
+    background: var(--lt-blue) center url("images/puppy-photo.jpg");
     
 }
 
@@ -579,7 +579,7 @@ footer{
         - add the wood background texture from the images folder
 */
 #pattern1{
-    background-color: var(--light-gray) 110% url("images/wood.png");
+    background: var(--light-gray) 110% url("images/wood.png");
 }
 
 /* For the second div, the pattern is from from Hero Pattern. These actually give you SVG code to paste into your CSS */
